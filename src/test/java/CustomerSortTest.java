@@ -43,8 +43,8 @@ public class CustomerSortTest {
 
         List<Customer> expectedList = new ArrayList<Customer>();
 
-        Customer firstE = new Customer(null, "Third Customer");
-        Customer secondE = new Customer(null, "Fourth Customer");
+        Customer firstE = new Customer(null, "Fourth Customer");
+        Customer secondE = new Customer(null, "Third Customer");
         Customer thirdE = new Customer("abc", "First Customer");
         Customer fourthE = new Customer("ace", "Fifth Customer");
         Customer fifthE = new Customer("def", "Second Customer");

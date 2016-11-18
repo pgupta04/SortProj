@@ -7,6 +7,9 @@ public class CustomerSort {
 
     public List<Customer> sort(List<Customer> customerList){
 
+        // Implement this method to sort (ascending) based on code. Nulls(for code) should be first.
+        // If the codes are same, Description should be sorted descending
+
         return null;
     }
 }
